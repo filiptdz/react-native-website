@@ -117,6 +117,7 @@
       "dimensions",
       "easing",
       "geolocation",
+      "imagebackground",
       "imageeditor",
       "imagepickerios",
       "imagestore",
